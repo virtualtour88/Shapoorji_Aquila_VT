@@ -1,0 +1,46 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_1CE4AE81_0DDA_5D5A_419A_F963A0DEB29A.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d766.4190737966603!2d72.8712719!3d19.2041849!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4a55879bd88ccc34!2zMTnCsDEyJzE0LjIiTiA3MsKwNTInMTcuOSJF!5e1!3m2!1sen!2sin!4v1645206269413!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen=
+LinkBehaviour_2660A44A_0D96_8A41_4194_294F3B030DE9.source = https://www.sarova.in/
+
+## Media
+
+### Audio
+audiores_14EF9B65_0DFA_5BDA_4191_A1D3B61F6F01.mp3Url = media/audio_1A3829F5_0DFE_C6BA_41AA_61A49ED08460_en.mp3
+audiores_14EF9B65_0DFA_5BDA_4191_A1D3B61F6F01.oggUrl = media/audio_1A3829F5_0DFE_C6BA_41AA_61A49ED08460_en.ogg
+
+### Title
+panorama_077F4EF8_0D37_03C8_4180_590AD72FE162.label = Common Bathroom
+panorama_1999CBEE_0D4B_01C8_4197_DDEDE6B3B74D.label = Deck Area
+panorama_067D2082_0D35_1E3B_4174_62FB619C9BFD.label = Dining Area
+panorama_07794B1E_0D35_024B_4197_BFB6A70FD050.label = Dining Area 2
+panorama_07724FB5_0D37_0258_41A8_8D9C3EFE14A2.label = Dry Balcony
+panorama_077FA20C_0D37_0248_419E_5AF4F1B3F0A2.label = Guest Bathroom
+panorama_077F2B50_0D37_02D7_41A3_C8C465696A42.label = Guest Bedroom
+panorama_077EE03B_0D37_1E49_4198_CE14025B8F49.label = Kids Bedroom
+panorama_07722936_0D37_0E5B_4193_84B1791004B9.label = Kitchen
+panorama_077EC1D8_0D37_01D7_41A3_CFB7633AA890.label = Living Room
+panorama_077EB8F7_0D37_0FD8_4192_E42FDB3799EE.label = Living Room 2
+panorama_077F02E8_0D37_03F7_4172_7F62890C56EE.label = Master Bathroom
+panorama_077FBD7A_0D37_06CB_419E_D488E1F334C7.label = Master Bedroom 1
+panorama_077E84CE_0D37_07CB_41A8_2697DB6D9C36.label = Master Bedroom 2
+panorama_0773F80C_0D35_0E48_418F_4597CA6E695D.label = Passage 1
+panorama_077EE7F0_0D37_01D7_4178_092EDFCD06EA.label = Passage 2
+
+## Skin
+
+### Image
+Image_21CE29CF_0DAE_9A5F_41A8_2EF1F9253EFB.url = skin/Image_21CE29CF_0DAE_9A5F_41A8_2EF1F9253EFB_en.png
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Shahpoorji - Aquila VT
