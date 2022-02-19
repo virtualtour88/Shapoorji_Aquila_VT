@@ -14,16 +14,14 @@ audiores_14EF9B65_0DFA_5BDA_4191_A1D3B61F6F01.oggUrl = media/audio_1A3829F5_0DFE
 
 ### Title
 panorama_077F4EF8_0D37_03C8_4180_590AD72FE162.label = Common Bathroom
-panorama_1999CBEE_0D4B_01C8_4197_DDEDE6B3B74D.label = Deck Area
+panorama_1F3D1BAB_1251_8874_41A1_DC54A4A57E1F.label = Deck Area
 panorama_067D2082_0D35_1E3B_4174_62FB619C9BFD.label = Dining Area
-panorama_07794B1E_0D35_024B_4197_BFB6A70FD050.label = Dining Area 2
 panorama_07724FB5_0D37_0258_41A8_8D9C3EFE14A2.label = Dry Balcony
-panorama_077FA20C_0D37_0248_419E_5AF4F1B3F0A2.label = Guest Bathroom
+panorama_1EB6D31F_125B_0F3B_41B0_304FA7ABED44.label = Guest Bathroom
 panorama_077F2B50_0D37_02D7_41A3_C8C465696A42.label = Guest Bedroom
 panorama_077EE03B_0D37_1E49_4198_CE14025B8F49.label = Kids Bedroom
 panorama_07722936_0D37_0E5B_4193_84B1791004B9.label = Kitchen
-panorama_077EC1D8_0D37_01D7_41A3_CFB7633AA890.label = Living Room
-panorama_077EB8F7_0D37_0FD8_4192_E42FDB3799EE.label = Living Room 2
+panorama_077EB8F7_0D37_0FD8_4192_E42FDB3799EE.label = Living Room
 panorama_077F02E8_0D37_03F7_4172_7F62890C56EE.label = Master Bathroom
 panorama_077FBD7A_0D37_06CB_419E_D488E1F334C7.label = Master Bedroom 1
 panorama_077E84CE_0D37_07CB_41A8_2697DB6D9C36.label = Master Bedroom 2
