@@ -8,6 +8,36 @@ LinkBehaviour_2660A44A_0D96_8A41_4194_294F3B030DE9.source = https://www.sarova.i
 LinkBehaviour_3D43312E_2FDA_EA5F_41BC_D52B3C3C4E3C.source = https://www.sarova.in/
 LinkBehaviour_3E13221D_2FDB_2E7D_41AE_34D2716C44EC.source = https://www.sarova.in/
 
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_1155C251_0DB3_8E43_4190_EEB7281A084E.toolTip = Bedroom 1
+HotspotPanoramaOverlayArea_166FDD28_0DAD_FBC1_4196_BF8EEEDEA9FC.toolTip = Bedroom 1
+HotspotPanoramaOverlayArea_1637A357_0DAE_8E4F_4197_4F1827DAD72F.toolTip = Bedroom 1 - Bathroom
+HotspotPanoramaOverlayArea_15D77284_0D96_8EC1_418A_C6EF1D762DD2.toolTip = Common Bathroom
+HotspotPanoramaOverlayArea_182FEFB9_0D95_76C3_4171_9B9D817D2E92.toolTip = Deck Area
+HotspotPanoramaOverlayArea_1C2CF353_1251_98D4_4171_5CA11C37A1A8.toolTip = Dining Area
+HotspotPanoramaOverlayArea_15A44C53_0D9D_BA46_4143_4DD8B22EC559.toolTip = Dry Balcony
+HotspotPanoramaOverlayArea_15F2EB3B_0D96_9FC7_41A2_C5B1D94E4974.toolTip = Kids Bedroom
+HotspotPanoramaOverlayArea_15DAB95E_0D9F_FA7E_41A8_D176462C526B.toolTip = Kitchen
+HotspotPanoramaOverlayArea_150406B5_0D9D_96C2_41AA_B5ABD247DF3F.toolTip = Kitchen
+HotspotPanoramaOverlayArea_186E8E22_0D93_B9C1_41A6_7023ED3E2586.toolTip = Living Room
+HotspotPanoramaOverlayArea_1516EA37_0D9E_99CF_418C_C7558F72BAE9.toolTip = Living Room
+HotspotPanoramaOverlayArea_1C63D60E_1256_984C_41AF_384879D74A4C.toolTip = Living Room
+HotspotPanoramaOverlayArea_119F0BB1_0DB2_FEC3_41A3_D6C68911C52A.toolTip = Master Bathroom
+HotspotPanoramaOverlayArea_11868880_0DAD_9AC1_417A_0E302B1F6CC0.toolTip = Master Bedroom 1
+HotspotPanoramaOverlayArea_165E6EF1_0DAF_9643_41A4_AA0FFACE8611.toolTip = Master Bedroom 1
+HotspotPanoramaOverlayArea_164AD547_0DAD_8A4F_41A5_DAAEB5009D13.toolTip = Master Bedroom 2
+HotspotPanoramaOverlayArea_11BB94BE_0DB2_8AC1_418B_9AFF9784B9AF.toolTip = Master Bedroom 2
+HotspotPanoramaOverlayArea_152A9E15_0D93_99C3_419C_6C8E03061AC0.toolTip = Passage 1
+HotspotPanoramaOverlayArea_1508DAD4_0D9E_9E41_4195_32DD5E2D220B.toolTip = Passage 1
+HotspotPanoramaOverlayArea_15AEDCEA_0D9D_9A41_4176_571AEB3195AE.toolTip = Passage 1
+HotspotPanoramaOverlayArea_152FC4DD_0D96_8A43_4122_38CA3CF5A750.toolTip = Passage 1
+HotspotPanoramaOverlayArea_151DB603_0D97_89C7_4169_D4167FC4852A.toolTip = Passage 1
+HotspotPanoramaOverlayArea_1155D251_0DB3_8E43_4174_4FB4F5DFA14D.toolTip = Passage 2
+HotspotPanoramaOverlayArea_1155B251_0DB3_8E43_4164_4C7E061B88E8.toolTip = Passage 2
+HotspotPanoramaOverlayArea_15DD4E26_0D93_99C1_419B_50C67AA6BBDE.toolTip = Passage 2
+
 ## Media
 
 ### Audio
@@ -16,12 +46,12 @@ audiores_14EF9B65_0DFA_5BDA_4191_A1D3B61F6F01.mp3Url = media/audio_1A3829F5_0DFE
 audiores_14EF9B65_0DFA_5BDA_4191_A1D3B61F6F01.oggUrl = media/audio_1A3829F5_0DFE_C6BA_41AA_61A49ED08460_en.ogg
 
 ### Title
+panorama_077F2B50_0D37_02D7_41A3_C8C465696A42.label = Bedroom 1
+panorama_1EB6D31F_125B_0F3B_41B0_304FA7ABED44.label = Bedroom 1 - Bathroom
 panorama_077F4EF8_0D37_03C8_4180_590AD72FE162.label = Common Bathroom
 panorama_23E59E91_2FD1_7FF6_41BD_A5634CA5D62B.label = Deck Area
-panorama_067D2082_0D35_1E3B_4174_62FB619C9BFD.label = Dining Area
+panorama_3C5A9B1E_30E8_116D_41AA_E0D733CC4569.label = Dining Area
 panorama_07724FB5_0D37_0258_41A8_8D9C3EFE14A2.label = Dry Balcony
-panorama_1EB6D31F_125B_0F3B_41B0_304FA7ABED44.label = Guest Bathroom
-panorama_077F2B50_0D37_02D7_41A3_C8C465696A42.label = Guest Bedroom
 panorama_077EE03B_0D37_1E49_4198_CE14025B8F49.label = Kids Bedroom
 panorama_07722936_0D37_0E5B_4193_84B1791004B9.label = Kitchen
 panorama_077EB8F7_0D37_0FD8_4192_E42FDB3799EE.label = Living Room
@@ -55,4 +85,4 @@ IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
 ### Description
 
 ### Title
-tour.name = Shahpoorji - Aquila VT
+tour.name = Shapoorji - Aquila VT
